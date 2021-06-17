@@ -85,7 +85,7 @@
     font-size: var(--Descuentos);
 }
 
-.home.menu.p{
+.home.menu p{
     font-size: var(--Descripciones) ;
 }
 
